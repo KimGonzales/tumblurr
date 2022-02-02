@@ -5,6 +5,10 @@ application up and running.
 
 Things you may want to cover:
 
+1. Test
+1. Test
+1. Test
+
 * Ruby version
 
 * System dependencies
